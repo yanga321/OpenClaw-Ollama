@@ -72,3 +72,12 @@ http://127.0.0.1:18789
 Memory Issues: Running LLMs on mobile can be resource-intensive. Ensure you have at least 4GB of free RAM.
 
 Stay Awake: Use the termux-wake-lock command to prevent Android from killing the process when the screen is off.
+
+## ✅ Testing
+You can validate that the README still includes the required setup instructions by running:
+
+```
+make test
+```
+
+This runs a small smoke test script (`tests_readme.sh`) used by CI.
