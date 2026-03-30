@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-ollama-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testing setup for the OpenClaw + Ollama setup guide",
+  "scripts": {
+    "test": "./tests_readme.sh"
+  }
+}
