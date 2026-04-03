@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenClaw AI Drive</string>
+    <string name="otg_connected">OTG Drive Connected</string>
+    <string name="otg_disconnected">OTG Drive Disconnected</string>
+    <string name="biometric_prompt">Authenticate to Access AI Drive</string>
+    <string name="biometric_subtitle">Use fingerprint or face unlock</string>
+    <string name="biometric_negative">Use PIN</string>
+    <string name="initializing">Initializing AI Engine…</string>
+    <string name="loading_models">Loading AI Models…</string>
+    <string name="ready">AI Drive Ready</string>
+    <string name="error_otg_not_found">No OTG Drive Detected</string>
+    <string name="error_permission_denied">USB Permission Denied</string>
+    <string name="error_auth_failed">Authentication Failed</string>
+    <string name="swarm_mode">Swarm Mode Active</string>
+    <string name="battery_optimized">Battery Optimized</string>
+    <string name="ar_mode">AR Mode</string>
+    <string name="chat_mode">Chat Mode</string>
+    <string name="settings">Settings</string>
+    <string name="panic_wipe">PANIC WIPE ACTIVATED</string>
+</resources>

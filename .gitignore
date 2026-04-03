@@ -1,0 +1,77 @@
+```
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.env
+.env.local
+*.env.*
+
+# Build artifacts
+build/
+dist/
+target/
+
+# Android build
+host-apk/app/build/
+host-apk/.gradle/
+*.apk
+*.aab
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Models and binaries
+*.gguf
+*.so
+*.dll
+*.exe
+*.class
+*.o
+*.obj
+*.out
+*.a
+
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
