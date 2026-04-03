@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB Device Filter for OTG Drive -->
+    <usb-device vendor-id="7504" product-id="16" />
+    <usb-device vendor-id="7504" product-id="17" />
+    <usb-device vendor-id="7504" product-id="18" />
+    
+    <!-- Generic USB Mass Storage -->
+    <usb-device vendor-id="-1" product-id="-1" />
+</resources>
